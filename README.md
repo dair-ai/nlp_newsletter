@@ -1,2 +1,2 @@
-# nlp_newsletter
+# NLP Newsletter
 Natural language processing (NLP) newsletter
