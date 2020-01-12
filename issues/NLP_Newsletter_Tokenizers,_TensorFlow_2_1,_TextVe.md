@@ -98,7 +98,7 @@ In an effort to democratize AI education and to educate the masses about the imp
 Stanford CS224N is back with another [iteration](http://web.stanford.edu/class/cs224n/) of the popular “Natural Language Processing with Deep Learning” course. The course officially started January 7 of this year so if you want to follow, go to their website for the full syllabus, slides, videos, paper reading suggestions, etc.
 
 ***Top NLP and ML Books***
-I tweeted my top book recommendations for theoretical and practical NLP and ML, it was well-received. I would like to share that list here via the tweet:
+I tweeted my top book recommendations for theoretical and practical NLP and ML, it was well-received. I would like to share that list here via the tweet: https://twitter.com/omarsar0/status/1214547402838986754?s=20
 
 ***Machine Learning with Kernel Methods***
 Kernel methods such as PCA and K-means have been around for quite some time and that’s because they have been successfully applied for a wide variety of applications such as graphs and biological sequences. Check out this comprehensive set of [slides](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/slides/master2017/master2017.pdf) covering a wide range of kernel methods and their inner workings. Here is also a great [blog](https://francisbach.com/cursed-kernels/) (maintained by Francis Bach) discussing aspects of kernel methods and other machine learning topics. 
