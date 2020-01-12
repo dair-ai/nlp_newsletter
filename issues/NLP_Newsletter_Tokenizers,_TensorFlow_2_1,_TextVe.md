@@ -3,7 +3,7 @@
 ----------
 
 
-![](https://cdn-images-1.medium.com/max/2400/1*xAQ_xFWA3JXJNtLAEO7WYg.png)
+![](https://cdn-images-1.medium.com/max/2400/1*gLVPodYjYd4YaF9sJbSpjg.png)
 
 
 Hello and Happy New Year! Due to numerous requests, I have decided to bring back the **NLP Newsletter**. This time I will keep it short and focused (also maintained in this [repo](https://github.com/dair-ai/nlp_newsletter)). The objective of this newsletter is to keep you informed on some of the interesting and recent stories related to NLP and ML (across a few categories) without taking too much time from your busy day.
