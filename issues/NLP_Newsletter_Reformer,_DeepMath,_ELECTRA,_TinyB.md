@@ -136,7 +136,7 @@ There are many great online initiatives to collaborate in research and learning.
 ***The landscape of Reinforcement Learning***
 Learn from Dr. Katja Hofmann the key concepts and methods of reinforcement learning and where it’s headed in this [webinar series](https://note.microsoft.com/MSR-Webinar-RL-Algorithm-to-Adoption-Registration-Live.html?wt.mc_id=twitter_MSR-WBNR_post_v3).
 
-**Notable Mentions ⭐️**
+# Notable Mentions ⭐️
 Check out t[his clean and self-contained PyTorch implementation](https://gist.github.com/y0ast/d91d09565462125a1eb75acc65da1469) of ResNet-18 applied to CIFAR-10 which achieves ~94% accuracy.
 
 PyTorch 1.4 is released! Check out release notes [here](https://github.com/pytorch/pytorch/releases/tag/v1.4.0).
