@@ -25,8 +25,7 @@ It is well known that a Transformer model is quite limited in the context window
 
 ![](https://cdn-images-1.medium.com/max/800/0*Q6FHJ5bqZRCrBAp9.png)
 
-
-“Locality-sensitive-hashing: Reformer takes in an input sequence of keys, where each key is a vector representing individual words (or pixels, in the case of images) in the first layer and larger contexts in subsequent layers. LSH is applied to the sequence, after which the keys are sorted by their hash and chunked. Attention is applied only within a single chunk and its immediate neighbors.” — [source](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html)
+*“Locality-sensitive-hashing: Reformer takes in an input sequence of keys, where each key is a vector representing individual words (or pixels, in the case of images) in the first layer and larger contexts in subsequent layers. LSH is applied to the sequence, after which the keys are sorted by their hash and chunked. Attention is applied only within a single chunk and its immediate neighbors.” — [source](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html)*
 
  ***Unsupervised Domain Adaptation for Text Classification***
 This [work](https://arxiv.org/abs/2001.04362) proposes a combination of distance measures incorporated into an additional loss function to train a model and improve unsupervised domain adaptation. The model is extended to a DistanceNet Bandit model that optimizes results “for transfer to the low-resource target domain”. The key problem being addressed with this method is how to deal with the dissimilarity between data from different domains, specifically as it relates to NLP tasks such as sentiment analysis. 
@@ -48,7 +47,6 @@ DeepMind recently released **two** interesting papers in Nature. The first [pape
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*0mfEtacqGLSrmaUlNjJa0g.png)
-
 
 *“Complex 3D shapes emerge from a string of amino acids.” —* [*source*](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
 
