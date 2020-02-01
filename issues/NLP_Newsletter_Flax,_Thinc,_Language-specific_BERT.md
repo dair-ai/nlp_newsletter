@@ -7,7 +7,7 @@ Welcome to the NLP Newsletter! The third issue covers topics such as improving c
 
 Don’t forget to subscribe to the publication or follow us on [Twitter](https://twitter.com/dair_ai) 🐦 to get the latest of the NLP Newsletter and dair.ai.
 
-**Publications 📙**
+# Publications 📙
 
 ***Language-specific BERT models***
 
@@ -59,7 +59,7 @@ Facebook AI published [mBART](https://arxiv.org/pdf/2001.08210.pdf) a method bas
 [Meena](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) is a neural conversational agent that aims to conduct improved conversations that are more sensible and specific — metrics that are defined to capture important attributes from a human conversation (e.g., fluency). The model learns the conversation context via an encoder and formulates a *sensible* response via the decoder. It is reported that improvement in the quality of conversations was possible by considering more powerful decoders.
 *You can also catch Alan Nichol’s (Co-Founder of Rasa HQ)* [*thoughts*](https://venturebeat.com/2020/01/31/with-googles-meena-are-ai-assistants-about-to-get-a-lot-smarter/) *on this work.*
 
-**Creativity and Society 🎨**
+# Creativity and Society 🎨
 
 ***ML tools — reading comprehension test and sentiment analyzer***
 
@@ -75,7 +75,7 @@ Hendrik Strobelt also released a small [project](https://github.com/HendrikStrob
 
 In this candid [interview](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/), you can hear directly from Emil, an ML researcher at Google Art & Culture, about his journey in the pursuit of a career in AI as a self-taught researcher.
 
-**Tools and Datasets ⚙️**
+# Tools and Datasets ⚙️
 
 ***Free Datasets***
 
@@ -113,7 +113,7 @@ Lyft releases [Flyte](https://eng.lyft.com/introducing-flyte-cloud-native-machin
 
 The open-source conversational AI framework [DeepPavlov](https://github.com/deepmipt/DeepPavlov) offers a free and easy-to-use solution for building dialogue systems and complex conversational systems. DeepPavlov comes with several predefined components for solving NLP-related problems. It integrates BERT (including conversational BERT) into three downstream tasks: text classification, named entity recognition (and sequence tagging in general), and question answering. As a result, it achieved substantial improvements in all these tasks. ([Google Colab](https://colab.research.google.com/github/deepmipt/dp_notebooks/blob/master/DP_tf.ipynb) | [Blog](https://medium.com/tensorflow/deeppavlov-an-open-source-library-for-end-to-end-dialog-systems-and-chatbots-31cf26849e37) | [Demo](https://demo.deeppavlov.ai/#/en/textqa))
 
-**Ethics in AI 🚨**
+# Ethics in AI 🚨
 
 ***Facial recognition and privacy***
 
@@ -136,7 +136,7 @@ Dr. David Leslie published this very [detailed report](https://www.turing.ac.uk/
 
 [*source*](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
 
-**Articles and Blog posts ✍️**
+# Articles and Blog posts ✍️
 
 ***Speeding up tokenization tutorial***
 
@@ -164,7 +164,7 @@ I always recommend anyone that is getting started with machine learning to get p
 
 [*source*](https://numpy.org/devdocs/user/absolute_beginners.html)
 
-**Education 🎓**
+# Education 🎓
 
 ***Foundations of machine learning and statistical inference***
 
@@ -192,7 +192,7 @@ Education is a vital part of growing communities and entire industries. It is wh
 ![](https://cdn-images-1.medium.com/max/1600/1*UYxTqc60FHsPEU4bY5y74Q.png)
 
 
-**Notable Mentions ⭐️**
+# Notable Mentions ⭐️
 
 [Learn](https://github.blog/2020-01-22-how-we-built-good-first-issues/) more about how GitHub is leveraging machine learning to spot easy and personalized issues for developers so that they can tackle issues that are aligned with their interests. This encourages quicker and more contributions from open-source contributors.
 
