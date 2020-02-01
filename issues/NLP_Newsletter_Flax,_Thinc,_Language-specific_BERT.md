@@ -8,6 +8,7 @@ Welcome to the NLP Newsletter! The third issue covers topics such as improving c
 Don’t forget to subscribe to the publication or follow us on [Twitter](https://twitter.com/dair_ai) 🐦 to get the latest of the NLP Newsletter and dair.ai.
 
 **Publications 📙**
+
 ***Language-specific BERT models***
 
 I have lost count of how many language-specific BERT models there are now but here a couple of the recent releases:
@@ -75,6 +76,7 @@ Hendrik Strobelt also released a small [project](https://github.com/HendrikStrob
 In this candid [interview](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/), you can hear directly from Emil, an ML researcher at Google Art & Culture, about his journey in the pursuit of a career in AI as a self-taught researcher.
 
 **Tools and Datasets ⚙️**
+
 ***Free Datasets***
 
 [Google Dataset Search](https://blog.google/products/search/discovering-millions-datasets-web/) is officially out of beta and now provides up to 25 million datasets to search upon. If you ever want inspiration for your next data science or machine learning project, this is the place to find references to datasets hosted all over the internet. It’s basically a search engine for datasets, this is amazing work and required tremendous effort!
@@ -112,6 +114,7 @@ Lyft releases [Flyte](https://eng.lyft.com/introducing-flyte-cloud-native-machin
 The open-source conversational AI framework [DeepPavlov](https://github.com/deepmipt/DeepPavlov) offers a free and easy-to-use solution for building dialogue systems and complex conversational systems. DeepPavlov comes with several predefined components for solving NLP-related problems. It integrates BERT (including conversational BERT) into three downstream tasks: text classification, named entity recognition (and sequence tagging in general), and question answering. As a result, it achieved substantial improvements in all these tasks. ([Google Colab](https://colab.research.google.com/github/deepmipt/dp_notebooks/blob/master/DP_tf.ipynb) | [Blog](https://medium.com/tensorflow/deeppavlov-an-open-source-library-for-end-to-end-dialog-systems-and-chatbots-31cf26849e37) | [Demo](https://demo.deeppavlov.ai/#/en/textqa))
 
 **Ethics in AI 🚨**
+
 ***Facial recognition and privacy***
 
 The New York Times wrote an interesting report on different perspectives of privacy as it relates to facial recognition technology. The focus of this story is around a “secretive company” called Clearview which allegedly uses AI technology to build universal facial recognition using images scraped from social media sites such as Twitter, Facebook, and YouTube, among others. The said technology raises concerns about privacy but it is also claimed to be used mostly for law enforcement. Read more of the story [here](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html).
@@ -134,6 +137,7 @@ Dr. David Leslie published this very [detailed report](https://www.turing.ac.uk/
 [*source*](https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf)
 
 **Articles and Blog posts ✍️**
+
 ***Speeding up tokenization tutorial***
 
 Steven van de Graaf wrote this [article](https://towardsdatascience.com/a-small-timing-experiment-on-the-new-tokenizers-library-a-write-up-7caab6f80ea6) reporting performance gains when using Hugging Face’s new [Tokenizers](https://github.com/huggingface/tokenizers) library as compared to the standard, built-in tokenizer used in [Transformers](https://github.com/huggingface/transformers). Steven reports 9x speed-up and an implementation that takes 10.6 seconds to tokenize 1 million sentences.
@@ -161,6 +165,7 @@ I always recommend anyone that is getting started with machine learning to get p
 [*source*](https://numpy.org/devdocs/user/absolute_beginners.html)
 
 **Education 🎓**
+
 ***Foundations of machine learning and statistical inference***
 
 Anima Anandkumar, from Caltech, released a course titled “**Foundations of machine learning and statistical inference**”. The course focuses on ML concepts such as matrices, tensors, optimization, probabilistic models, neural networks and much more. This is a great course because it focuses on the theoretical aspect of ML, which is just as essential to understand and improve more advanced methods. ([video playlist](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg) | [course syllabus](http://tensorlab.cms.caltech.edu/users/anima/cms165-2020.html))
@@ -188,6 +193,7 @@ Education is a vital part of growing communities and entire industries. It is wh
 
 
 **Notable Mentions ⭐️**
+
 [Learn](https://github.blog/2020-01-22-how-we-built-good-first-issues/) more about how GitHub is leveraging machine learning to spot easy and personalized issues for developers so that they can tackle issues that are aligned with their interests. This encourages quicker and more contributions from open-source contributors.
 
 Catch up with the latest top NLP news on the [recent issue](http://newsletter.ruder.io/issues/nlp-progress-restrospectives-and-look-ahead-new-nlp-courses-independent-research-initiatives-interviews-lots-of-resources-217744) of the NLP News by Sebastian Ruder. Highlights include an update of NLP Progress, retrospectives of the past decade, new NLP courses, among other topics.
