@@ -13,7 +13,7 @@ Don’t forget to subscribe to the publication or follow us on [Twitter](https:/
 
 I have lost count of how many language-specific BERT models there are now but here a couple of the recent releases:
 
-- Dutch BERT ([RobBERT](https://arxiv.org/abs/2001.06286) | [BERTje](https://arxiv.org/abs/1912.09582%27))
+- Dutch BERT ([RobBERT](https://arxiv.org/abs/2001.06286) | [BERTje](https://arxiv.org/abs/1912.09582))
 - [German BERT](https://deepset.ai/german-bert)
 - [Portuguese BERT](https://github.com/neuralmind-ai/portuguese-bert)
 - French BERT ([CamemBERT](https://arxiv.org/abs/1911.03894) | [FlauBERT](https://arxiv.org/abs/1912.05372))
