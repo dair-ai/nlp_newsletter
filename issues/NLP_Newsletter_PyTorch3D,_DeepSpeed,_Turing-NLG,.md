@@ -40,6 +40,7 @@ A team of researchers published a [paper](https://arxiv.org/abs/2002.01861) desc
 Facebook AI researchers recently published [an interesting work](https://ai.facebook.com/blog/using-radioactive-data-to-detect-if-a-data-set-was-used-for-training/) that aims to mark images (referred to as radioactive data) so as to verify if that particular data set was used for training the ML model. They found that it is possible to use a clever marker that moves features towards a direction, which the model uses to help detect the usage of radioactive data even when only 1 percent of the training data is radioactive. This is challenging since any change in the data can potentially degrade the model accuracy. According to the authors, this work can “*help researchers and engineers to keep track of which data set was used to train a model so they can better understand how various data sets affect the performance of different neural networks*”. It seems like an important approach in mission-critical ML applications. Check out the full paper [here](https://arxiv.org/pdf/2002.00937.pdf).
 
 ***REALM: Retrieval-Augmented Language Model Pre-Training***
+
 [REALM](https://kentonl.com/pub/gltpc.2020.pdf) is a large-scale neural-based retrieval approach that makes use of a corpus of textual knowledge to pre-train a language model in an unsupervised manner. This approach essentially aims to capture knowledge in a more interpretable way by exposing the model to world knowledge that is used for training and predictions via backpropagation. Tasks approached and evaluated using REALM include open-domain question answering benchmarks. Besides the improvements in the accuracy of the model, other benefits include the modularity and interpretability components.
 
 ![](https://cdn-images-1.medium.com/max/800/1*MJO-yzCwsB5ydKGz7hKHVA.png)
@@ -234,7 +235,7 @@ Xu et al. (2020) proposed a [method](https://arxiv.org/abs/2002.02925]) for prog
 
 Here is another interesting course called “[Introduction to Machine Learning](https://compstat-lmu.github.io/lecture_i2ml/index.html)” which covers the ML basics, supervised regression, random forests, parameter tuning, and many more fundamental ML topics.
 
-🇬🇷 Greek BERT ([GreekBERT](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1)) model is now available for use through the Hugging Face Transformers library. 
+🇬🇷 Greek BERT ([GreekBERT](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1)) model is now available for use through the Hugging Face Transformers library.
 
 Jeremy Howard publishes a [paper](https://arxiv.org/abs/2002.04688) describing the fastai deep learning library which is widely used for research and to teach their open courses on deep learning. A recommended read for software developers working on building and improving deep learning and ML libraries.
 
