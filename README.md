@@ -3,6 +3,9 @@ The NLP newsletter provides (weekly or biweekly) quick summaries of some of the 
 
 If you are interested in translating any of the NLP Newsletter issues, you can check out this [GitHub issue](https://github.com/dair-ai/dair-ai.github.io/issues/11).
 
+
+**NLP Newsletter Issue #5 (Feb 23, 2020)** - [The Annotated GPT-2, Understanding self-distillation, Haiku, GANILLA, Sparkwiki, Ethics in NLP, Torchmeta,…]. -- ([English](https://dair.ai/NLP_Newsletter_The_Annotated_GPT-2,_Understanding/))
+
 **NLP Newsletter Issue #4 (Feb 16, 2020)** - [PyTorch3D, DeepSpeed, Turing-NLG, Question Answering Benchmarks, Hydra, Sparse Neural Networks,…]--([English](https://dair.ai/NLP_Newsletter_PyTorch3D,_DeepSpeed,_Turing-NLG/) | [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_ISSUE_4_PyTorch3D,_DeepSpeed,_Turing-NLG/) | [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_PyTorch3D,_DeepSpeed,_Turing-NLG/))
 
 **NLP Newsletter Issue #3 (Feb 2, 2020)** - [Flax, Thinc, Language-specific BERT models, Meena, Flyte, LaserTagger,.…] -- ([English](https://dair.ai/NLP_Newsletter_Flax,_Thinc,_Language-specific_BERT/) | [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Flax,_Thinc,_Language-specific_BERT_models/))
