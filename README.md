@@ -1,5 +1,5 @@
 # NLP Newsletter
-The NLP newsletter provides (weekly or biweekly) quick summaries of some of the latest natural language processing (NLP) and machine learning (ML) stories across a range of important categories such as fairness & ethics, society, educational resources, publications, etc. Want your story or project to be featured in the NLP Newsletter reach out via ellfae@gmail.com or [Twitter](https://twitter.com/omarsar0).
+The NLP newsletter provides (weekly or biweekly) quick summaries of some of the latest natural language processing (NLP) and machine learning (ML) stories across a range of important categories such as fairness & ethics, society, educational resources, publications, etc. Want your story or project to be featured in the NLP Newsletter? Reach out via ellfae@gmail.com or [Twitter](https://twitter.com/omarsar0).
 
 If you are interested in translating any of the NLP Newsletter issues, you can check out this [GitHub issue](https://github.com/dair-ai/dair-ai.github.io/issues/11).
 
