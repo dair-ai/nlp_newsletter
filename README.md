@@ -5,7 +5,7 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 
 **NLP Newsletter Issue #6 (Mar 02, 2020)** - [NLP Newsletter: BERTology Primer, fastpages, T5, Data Science Education, PyTorch Notebooks, Slow Science in ML,...] -- [English](https://dair.ai/NLP_Newsletter_BERTology_Primer_fastpages_T5/)
 
-**NLP Newsletter Issue #5 (Feb 23, 2020)** - [The Annotated GPT-2, Understanding self-distillation, Haiku, GANILLA, Sparkwiki, Ethics in NLP, Torchmeta,…] -- [English](https://dair.ai/NLP_Newsletter_The_Annotated_GPT-2,_Understanding/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_The_Annotated_GPT-2,_Understanding/)
+**NLP Newsletter Issue #5 (Feb 23, 2020)** - [The Annotated GPT-2, Understanding self-distillation, Haiku, GANILLA, Sparkwiki, Ethics in NLP, Torchmeta,…] -- [English](https://dair.ai/NLP_Newsletter_The_Annotated_GPT-2,_Understanding/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_The_Annotated_GPT-2,_Understanding/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5-Issue-5-The_Annotated_GPT-2-CodeBERT-JAX-GA/)
 
 **NLP Newsletter Issue #4 (Feb 16, 2020)** - [PyTorch3D, DeepSpeed, Turing-NLG, Question Answering Benchmarks, Hydra, Sparse Neural Networks,…] -- [English](https://dair.ai/NLP_Newsletter_PyTorch3D,_DeepSpeed,_Turing-NLG/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_ISSUE_4_PyTorch3D,_DeepSpeed,_Turing-NLG/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_PyTorch3D,_DeepSpeed,_Turing-NLG/)
 
