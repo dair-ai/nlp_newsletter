@@ -14,7 +14,7 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 
 **NLP Newsletter Issue #3 (Feb 2, 2020)** - [Flax, Thinc, Language-specific BERT models, Meena, Flyte, LaserTagger,.…] -- [English](https://dair.ai/NLP_Newsletter_Flax,_Thinc,_Language-specific_BERT/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Flax,_Thinc,_Language-specific_BERT_models/), [French](https://dair.ai/NLP_Newsletter_-3_-FR/)
 
-**NLP Newsletter Issue #2 (Jan 19, 2020)** - [Reformer, DeepMath, ELECTRA, TinyBERT for Search, VizSeq, Open-Sourcing ML,…]-- [English](https://dair.ai/NLP_Newsletter_Reformer,_DeepMath,_ELECTRA,_TinyB-copy/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Reformer,_DeepMath,_ELECTRA,_TinyBERT/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_Reformer,_DeepMath,_ELECTRA,_TinyB/), [French](https://dair.ai/NLP_Newsletter_-2_-FR/)
+**NLP Newsletter Issue #2 (Jan 19, 2020)** - [Reformer, DeepMath, ELECTRA, TinyBERT for Search, VizSeq, Open-Sourcing ML,…] -- [English](https://dair.ai/NLP_Newsletter_Reformer,_DeepMath,_ELECTRA,_TinyB-copy/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Reformer,_DeepMath,_ELECTRA,_TinyBERT/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_Reformer,_DeepMath,_ELECTRA,_TinyB/), [French](https://dair.ai/NLP_Newsletter_-2_-FR/)
 
 **NLP Newsletter Issue #1 (Jan 12, 2020)** - [Tokenizers, TensorFlow 2.1, TextVectorization, TorchIO, NLP Shortfalls,…] -- [English](https://dair.ai/NLP_Newsletter_Tokenizers,_TensorFlow_2_1,_TextVe/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Tokenizers,_TensorFlow_2_1,_TextVectorization/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_Tokenizers,_TensorFlow_2_1,_TextVe/), [French](https://dair.ai/NLP_Newsletter_-1_-FR/)
 
