@@ -3,6 +3,9 @@ The NLP newsletter provides (weekly or biweekly) quick summaries of some of the 
 
 If you are interested in translating any of the NLP Newsletter issues, you can check out this [GitHub issue](https://github.com/dair-ai/dair-ai.github.io/issues/11).
 
+
+**NLP Newsletter Issue #7 (Mar 16, 2020)** - [NLP Newsletter: NLP Paper Summaries, Learning to Simulate, Transformers Notebooks, Med7, Measuring Compositional Generalization, Neural Tangents,…] -- [English](https://dair.ai/NLP_Newsletter_NLP_7/)
+
 **NLP Newsletter Issue #6 (Mar 02, 2020)** - [NLP Newsletter: BERTology Primer, fastpages, T5, Data Science Education, PyTorch Notebooks, Slow Science in ML,...] -- [English](https://dair.ai/NLP_Newsletter_BERTology_Primer_fastpages_T5/), [French](https://dair.ai/NLP_Newsletter_-6_-FR/)
 
 **NLP Newsletter Issue #5 (Feb 23, 2020)** - [The Annotated GPT-2, Understanding self-distillation, Haiku, GANILLA, Sparkwiki, Ethics in NLP, Torchmeta,…] -- [English](https://dair.ai/NLP_Newsletter_The_Annotated_GPT-2,_Understanding/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_The_Annotated_GPT-2,_Understanding/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5-Issue-5-The_Annotated_GPT-2-CodeBERT-JAX-GA/), [French](https://dair.ai/NLP_Newsletter_-5_-FR/)
