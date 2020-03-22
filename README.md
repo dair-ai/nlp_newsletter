@@ -5,7 +5,7 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 
 [Subscribe](https://dair.ai/newsletter/) 🔖 to the NLP Newsletter to receive future issues in your inbox.
 
-| Newlsetter Issue | Date | Translations |
+| Newsletter Issue | Date | Translations |
 | ---------------- | ---- | ------------ |
 | NLP Newsletter Issue #8: NeRF, CORD-19, Stanza, Text Generation 101, Notebooks, NLP, SECNLP, Dreamer,… | Mar 22, 2020 | [English](https://dair.ai/NLP_Newsletter_8/)
 | NLP Newsletter Issue #7: NLP Paper Summaries, Learning to Simulate, Transformers Notebooks, Med7, Measuring Compositional Generalization, Neural Tangents,… | Mar 16, 2020 | [English](https://dair.ai/NLP_Newsletter_NLP_7/), [French](https://dair.ai/NLP_Newsletter_-7_-FR/), [Chinese](https://dair.ai/NLP_Newsletter_NLP_7-ZH-.md/)
