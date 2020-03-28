@@ -16,16 +16,3 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 | NLP Newsletter Issue #2: Reformer, DeepMath, ELECTRA, TinyBERT for Search, VizSeq, Open-Sourcing ML,… | Jan 19, 2020 | [English](https://dair.ai/NLP_Newsletter_Reformer,_DeepMath,_ELECTRA,_TinyB-copy/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Reformer,_DeepMath,_ELECTRA,_TinyBERT/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_Reformer,_DeepMath,_ELECTRA,_TinyB/), [French](https://dair.ai/NLP_Newsletter_-2_-FR/)
 | NLP Newsletter Issue #1: Tokenizers, TensorFlow 2.1, TextVectorization, TorchIO, NLP Shortfalls,… | Jan 12, 2020 | [English](https://dair.ai/NLP_Newsletter_Tokenizers,_TensorFlow_2_1,_TextVe/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5_Tokenizers,_TensorFlow_2_1,_TextVectorization/), [Brazilian Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_Tokenizers,_TensorFlow_2_1,_TextVe/), [French](https://dair.ai/NLP_Newsletter_-1_-FR/)
 
-
----
-If this repository helped you in your research, please consider citing us:
-
-```
-@misc{saravia2020dair,
-  title={dair.ai: Democratizing Artificial Intelligence Research, Education, and Technologies},
-  author={Saravia, Elvis},
-  journal={https://github.com/dair-ai},
-  number={1},
-  year={2020}
-}
-```
