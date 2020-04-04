@@ -9,7 +9,7 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 
 | Newsletter Issue | Date | Translations |
 | ---------------- | ---- | ------------ |
-| NLP Newsletter #9: Illustrated GNN Guide, TextVQA and TextCaps, KeraStroke, SyferText, torchlayers,… | April 03, 2020 | [Enligh](https://dair.ai/NLP_Newsletter_9/)
+| NLP Newsletter #9: Illustrated GNN Guide, TextVQA and TextCaps, KeraStroke, SyferText, torchlayers,… | April 03, 2020 | [Engligh](https://dair.ai/NLP_Newsletter_9/)
 | NLP Newsletter Issue #8: NeRF, CORD-19, Stanza, Text Generation 101, Notebooks, SECNLP, Dreamer,… | Mar 22, 2020 | [English](https://dair.ai/NLP_Newsletter_8/), [French](https://dair.ai/NLP_Newsletter_-8_-FR/), [Chinese](https://dair.ai/NLP_Newsletter_NLP_8-ZH-.md/), [Brazilian Portuguese (PT-BR)](https://dair.ai/NLP_Newsletter-PT-BR-_8/)
 | NLP Newsletter Issue #7: NLP Paper Summaries, Learning to Simulate, Transformers Notebooks, Med7, Measuring Compositional Generalization, Neural Tangents,… | Mar 16, 2020 | [English](https://dair.ai/NLP_Newsletter_NLP_7/), [French](https://dair.ai/NLP_Newsletter_-7_-FR/), [Chinese](https://dair.ai/NLP_Newsletter_NLP_7-ZH-.md/), [Brazilian-Portuguese](https://dair.ai/NLP_Newsletter-PT-BR-_NLP_7/)
 | NLP Newsletter Issue #6: BERTology Primer, fastpages, T5, Data Science Education, PyTorch Notebooks, Slow Science in ML,... | Mar 02, 2020 | [English](https://dair.ai/NLP_Newsletter_BERTology_Primer_fastpages_T5/), [French](https://dair.ai/NLP_Newsletter_-6_-FR/), [Brazilian Portuguese (PT-BR)](https://dair.ai/NLP_Newsletter-PT-BR-_BERTology_Primer_fastpages_T5/), [Chinese](https://dair.ai/NLP%E7%AE%80%E6%8A%A5/)
