@@ -24,4 +24,5 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 
 ## Contributors
 - Elvis Saravia (@omarsar)
+- Manuel Romero (@mrm8488)
 
