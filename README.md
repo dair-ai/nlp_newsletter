@@ -15,8 +15,8 @@ If you are interested in translating any of the NLP Newsletter issues, you can c
 
 | Newsletter Issue | Date | Translations |
 | ---------------- | ---- | ------------ |
-| NLP Newsletter 13 [EN]: ACL Highlights, TaBERT, Texthero, ML Methods, Climbing towards NLU,… | July 13, 2020 | [English](https://dair.ai/NLP_Newsletter_13_en/) 
-| NLP Newsletter #12 [EN]: Hateful Memes, TextAttack, DETR, BLEURT, GameGAN, Survey Papers,…| June 30, 2020 | [English](https://dair.ai/NLP_Newsletter_12_en/), [French](https://dair.ai/NLP_Newsletter_-12_-FR/)
+| NLP Newsletter #13: ACL Highlights, TaBERT, Texthero, ML Methods, Climbing towards NLU,… | July 13, 2020 | [English](https://dair.ai/NLP_Newsletter_13_en/) 
+| NLP Newsletter #12: Hateful Memes, TextAttack, DETR, BLEURT, GameGAN, Survey Papers,…| June 30, 2020 | [English](https://dair.ai/NLP_Newsletter_12_en/), [French](https://dair.ai/NLP_Newsletter_-12_-FR/)
 | NLP Newsletter #11: Jukebox, HybridQA, TLDR generation, Blender: the SOTA Chatbot, TorchServe, AI Economist, WT5,... | May 4, 2020 | [English](https://dair.ai/NLP_Newsletter_11_en/), [Turkish](https://dair.ai/NLP_Newsletter_11_tr/), [French](https://dair.ai/NLP_Newsletter_-11_-FR/)
 | NLP Newsletter #10: Improving Reproducibility in ML, Privacy and Security in NLP, EXTREME, Longformer, VilBERT, exBERT,… | April 19, 2020 | [English](https://dair.ai/NLP_Newsletter_10_en/), [French](https://dair.ai/NLP_Newsletter_10_FR/), [Brazilian Portuguese (PT-BR)](https://dair.ai/NLP_Newsletter-PT-BR-_10/), [Turkish](https://dair.ai/NLP_Newsletter_10_-TR/), [Chinese](https://dair.ai/NLP_Newsletter_NLP_10-ZH/)
 | NLP Newsletter #9: Illustrated GNN Guide, TextVQA and TextCaps, KeraStroke, SyferText, torchlayers,… | April 03, 2020 | [English](https://dair.ai/NLP_Newsletter_9/), [French](https://dair.ai/NLP_Newsletter_-9_-FR/), [Brazilian Portuguese (PT-BR)](https://dair.ai/NLP_Newsletter_9_-PT-BR/), [Chinese](https://dair.ai/NLP_Newsletter_NLP_9-ZH/), [Turkish](https://dair.ai/NLP_Newsletter_9_-TR/)
